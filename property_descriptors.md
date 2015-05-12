@@ -4,7 +4,7 @@
 
 Prior to ES5 there was no way to have restrictions on an Objects properties. With ES5 there is a new method called `Object.defineProperty` which can be used to define properties on an object and set **restrictions** to that. The restictions are `writable`, `enumerable`, `configurable`.
 
-```
+```js
 var mycs = {};
 Object.defineProperty(mycs, 'age', {
    value: 1,
@@ -20,7 +20,7 @@ By default the values are set true.
 ### Writable
 
 If we set `writable: false` the property became pseudoconstant
-```
+```js
 var mycs = {};
 Object.defineProperty(mycs, 'age', {
    value: 1,
@@ -38,7 +38,7 @@ mycs.age = 10; //Type Error in strict mode
 
 ### Configurable
 If a property is  configurable, we can modify its descriptor definition:
-```
+```js
 var mycs = {};
 mycs.age = 1;
 
@@ -66,7 +66,7 @@ Also if we set `configurable:false` we cannot delete that property.
 ### Enumerable
 The `enumerable` is defining if a property will appear in case of a `for in` loop.
 
-```
+```js
 mycs = {
  team: 15
 }
@@ -87,7 +87,7 @@ for(p in mycs){
 ```
 
 `Object.defineProperty` is also useful in case you want to create computing property names in an object. e.g.
-```
+```js
 var prefix = 'year';
 var suffix = 'ofBirth';
 
@@ -100,7 +100,7 @@ console.log(mycs); // Object {yearofBirth: "2014"}
 ```
 
 ES6 support computing property names e.g. 
-```
+```js
 var mycs = {
   [prefix + suffix]: "2014";
 }
@@ -113,7 +113,7 @@ var mycs = {
 
 
 ## Why to not pass null to apply/bind
-```
+```js
 function foo(a){
   this.age = 10 + a;
   return this.age;
@@ -125,7 +125,7 @@ console.log(window.age); // 20 !!!OOPS
 ```
 We created accidentaly a new property to the `window` because null is not an empty object, every time you pass null in reallity you pass the context. Its safer to pass an empty object:
 
-```
+```js
 function foo(a){
   this.ages = 10 + a;
   return this.ages;
@@ -140,7 +140,7 @@ console.log(window.ages); // undefined
 
 We can force a function in coffeescript to throw an error if one of the parameters is not defined by defining a small helper functions:
 
-```
+```coffee
  _err = (message) -> throw new Error(message);
  
  getSum = (a = _err('a is not defined'), b = _err('b is not defined')) -> a + b
