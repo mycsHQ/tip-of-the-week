@@ -1,4 +1,4 @@
-# Property Descriptors in Javascript, why to not pass null to apply/bind, and "pseudomentatory" parameters in coffeescript functions (Avraam)
+# ES5: Property Descriptors and "pseudomentatory" parameters in Coffeescript functions (Avraam)
 
 ## Property Descriptors in Javascript
 
