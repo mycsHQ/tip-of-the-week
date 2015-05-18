@@ -20,11 +20,28 @@ Dash is great to manage Snippets that you have to use over and over again. You c
 
 ## Useful Snippets
 
-#### Redis
-* Start locally
+#### Coffeescript
+* for loops
+```coffee
+for key of obj
+for key, value of obj
+for own key, value of obj # Avoid going up in the prototype chain
 ```
-redis-server /usr/local/etc/redis.conf
+
+---
+
+#### CSS
+* See how content fits into containers
+```coffee
+* { background-color: rgba(255,0,0,.2); }
+* * { background-color: rgba(0,255,0,.2); }
+* * * { background-color: rgba(0,0,255,.2); }
+* * * * { background-color: rgba(255,0,255,.2); }
+* * * * * { background-color: rgba(0,255,255,.2); }
+* * * * * * { background-color: rgba(255,255,0,.2); }
 ```
+
+---
 
 #### Docker
 * Check running containers
@@ -49,6 +66,29 @@ sudo docker logs --tail=500 -f [container name]
 sudo docker rmi [container ID]
 ```
 
+---
+
+#### Git
+* View unpushed commits
+```coffee
+git log origin/master..HEAD
+```
+* Stash
+```coffee
+git stash save "my_stashed_stuff_name"
+
+git stash list
+git stash apply stash@{n}
+git stash pop stash@{n}     # Apply and remove from list
+```
+
+* Undo last `add` (before commit)
+```coffee
+git reset HEAD --
+```
+
+---
+
 #### Mac
 * Run local server
 ```coffee
@@ -61,13 +101,15 @@ python -m SimpleHTTPServer 8001
 split -l [max lines] [filename.csv] [prefix: new-]
 ```
 
-#### Coffeescript
-* for loops
-```coffee
-for key of obj
-for key, value of obj
-for own key, value of obj # Avoid going up in the prototype chain
+---
+
+#### Redis
+* Start locally
 ```
+redis-server /usr/local/etc/redis.conf
+```
+
+---
 
 #### Unix
 * Check HDD space
@@ -120,32 +162,3 @@ brew install Multitail
 multitail -l 'ssh user@host1 "sudo [command to be run on sever]"' -l 'ssh user@host2 "[another command to be run on sever]"'
 ```
 
-#### CSS
-* See how content fits into containers
-```coffee
-* { background-color: rgba(255,0,0,.2); }
-* * { background-color: rgba(0,255,0,.2); }
-* * * { background-color: rgba(0,0,255,.2); }
-* * * * { background-color: rgba(255,0,255,.2); }
-* * * * * { background-color: rgba(0,255,255,.2); }
-* * * * * * { background-color: rgba(255,255,0,.2); }
-```
-
-#### Git
-* View unpushed commits
-```coffee
-git log origin/master..HEAD
-```
-* Stash
-```coffee
-git stash save "my_stashed_stuff_name"
-
-git stash list
-git stash apply stash@{n}
-git stash pop stash@{n}     # Apply and remove from list
-```
-
-* Undo last `add` (before commit)
-```coffee
-git reset HEAD --
-```
