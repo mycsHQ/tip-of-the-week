@@ -23,5 +23,4 @@ After a few seconds, the SSH info should be displayed:
 
 _**NB:** Only the user who started the build has access to this instance._
 
-
-Once you're inside,
+**Work in progress**
