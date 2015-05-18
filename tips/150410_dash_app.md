@@ -21,7 +21,7 @@ Dash is great to manage Snippets that you have to use over and over again. You c
 ## Useful Snippets
 
 #### Coffeescript
-* for loops
+* `for` loops
 ```coffee
 for key of obj
 for key, value of obj
