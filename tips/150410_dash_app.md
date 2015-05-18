@@ -11,7 +11,7 @@ Dash is great to manage Snippets that you have to use over and over again. You c
 ## Ideal setup
 
 1. Launch the app on login
-2. Define shortcut, ie. `cmd + \``
+2. Define shortcut, ie. `cmd + ``
 3. `Dismmiss main window when I activate a different app`
 
 ![image](https://cloud.githubusercontent.com/assets/352146/7676586/75a7c058-fd45-11e4-9551-2af358d1f061.png)
@@ -147,13 +147,13 @@ ln -s /path/to/file_or_folder /path[optional]/name_for_symlink
 scp /your/file user@host:/where/to/put/it
 
 # Download
-scp user@host:/desire/file ~/where/to/save/it
+scp user@host:/desired/file ~/where/to/save/it
 
 # Recursive + key
 scp -rp -i ~/.ssh/mykey /your/file user@host:/where/to/put/it
 ```
 
-* Multitail
+* [Multitail](http://www.vanheusden.com/multitail/)
 ```coffee
 # Install (Mac)
 brew install Multitail
