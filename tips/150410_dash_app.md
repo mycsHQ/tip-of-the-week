@@ -2,7 +2,7 @@
 
 > Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included.
 
-Dash is great to manage Snippets that you have to use over and over again. You can categorise them by Tags and quickly search for them.
+Dash is great to manage Snippets that you have to use over and over again. You can categorise them by tags and quickly search for them.
 
 ![image](https://cloud.githubusercontent.com/assets/352146/7676568/504f7db4-fd45-11e4-89cb-0510accc8993.png)
 
@@ -11,8 +11,8 @@ Dash is great to manage Snippets that you have to use over and over again. You c
 ## Ideal setup
 
 1. Launch the app on login
-2. Define shortcut, ie. `cmd + ``
-3. `Dismmiss main window when I activate a different app`
+2. Define a shortcut, ie. `cmd + ``
+3. Activate: `Dismmiss main window when I activate a different app`
 
 ![image](https://cloud.githubusercontent.com/assets/352146/7676586/75a7c058-fd45-11e4-9551-2af358d1f061.png)
 
