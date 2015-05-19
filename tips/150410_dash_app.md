@@ -159,6 +159,6 @@ scp -rp -i ~/.ssh/mykey /your/file user@host:/where/to/put/it
 brew install Multitail
 
 # Run
-multitail -l 'ssh user@host1 "sudo [command to be run on sever]"' -l 'ssh user@host2 "[another command to be run on sever]"'
+multitail -l 'ssh user@host1 "sudo [command to be run on the sever]"' -l 'ssh user@host2 "[another command to be run on the sever]"'
 ```
 
