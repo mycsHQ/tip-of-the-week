@@ -11,3 +11,4 @@
 29.05.2015 | Claudio & Nicolas   |  **DevOps:** [docs.mycs.io](http://docs.mycs.io) :copyright: Claudio - [Firefighting](https://github.com/mycsHQ/documentation/wiki/Firefighting#one-api-is-not-answering-or-uptime-robot-tells-that-the-api-is-down) :copyright: Nicolas
 05.06.2015 | Chad   |  **Jira:** Shortcuts
 12.06.2015 | Ivan   |  **IDE/JS/CSS:** Workspaces and live update for Scripts and CSS
+19.06.2015 | Claudio   | **Logs:** [Move through long logs](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150619_move_through_logs.md)
