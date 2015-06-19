@@ -34,3 +34,9 @@
   ```
   sudo journalctl -fu system_name -l
   ```
+
+## Docker
+> https://docs.docker.com/reference/commandline/cli/#logs
+
+* `sudo docker logs [container name] | grep error`
+* `sudo docker logs --tail=500 -f [container name]`
