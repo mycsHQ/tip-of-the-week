@@ -40,3 +40,7 @@
 
 * `sudo docker logs [container name] | grep error`
 * `sudo docker logs --tail=500 -f [container name]`
+
+## Cat
+
+* `cat big_file.txt | less`
