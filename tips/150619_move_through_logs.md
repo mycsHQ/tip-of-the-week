@@ -1,5 +1,5 @@
 # Move through long Logs
-`vi` | `vim` | `journalctl` | ...
+`vi` | `vim` | `cat` | `journalctl` | ...
 
 ## Shortcuts
 
