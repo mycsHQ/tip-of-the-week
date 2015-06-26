@@ -12,3 +12,4 @@
 05.06.2015 | Chad   |  **Jira:** Shortcuts
 12.06.2015 | Ivan   |  **IDE/JS/CSS:** Workspaces and live update for Scripts and CSS
 19.06.2015 | Claudio   | **Logs:** [Move through long logs](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150619_move_through_logs.md)
+26.06.2015 | Nancy   | **CSS3:** shapes....
