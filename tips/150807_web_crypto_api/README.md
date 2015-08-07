@@ -4,6 +4,9 @@
 
 > The SubtleCrypto interface represents a set of cryptographic primitives. It is available via the Crypto.subtle properties available in a window context (via Window.crypto).
 
+Wrote a little sample script to hash, generate a symmetric key and en/decrypt data.
+It's also possible to sign (using HMAC) data, generate and use asymmetric (private/public) keys and so on.
+
 #### Can I use it?
   * [Window.crypto](http://caniuse.com/#search=Web%20crypto)
 
