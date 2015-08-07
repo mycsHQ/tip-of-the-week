@@ -8,7 +8,7 @@
   * [Window.crypto](http://caniuse.com/#search=Web%20crypto)
 
 #### Source
-  [Tim Taubert: Keeping secrets with JavaScript | JSConf EU 2014](https://www.youtube.com/watch?v=yf4m9LdO1zI)
-  [MDN - SubtleCrypto](https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto)
-  [MDN - TextEncoder (String -> Encoded Int-Array)](https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder)
-  [MDN - TextDecoder (Encoded Int-Array -> String)](https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder)
+  * [Tim Taubert: Keeping secrets with JavaScript | JSConf EU 2014](https://www.youtube.com/watch?v=yf4m9LdO1zI)
+  * [MDN - SubtleCrypto](https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto)
+  * [MDN - TextEncoder (String -> Encoded Int-Array)](https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder)
+  * [MDN - TextDecoder (Encoded Int-Array -> String)](https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder)
