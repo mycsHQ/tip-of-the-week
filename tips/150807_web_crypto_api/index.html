@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body > * {
+      display: block;
+    }
+    button, p, input {
+      width: 300px;
+      font-size: 20px;
+      margin: 20px;
+    }
+    a {
+      font-size: 15px;
+      margin: 20px;
+    }
+  </style>
+  <title>Tip of the week - Crypto API</title>
+</head>
+
+<body>
+  Input:
+  <input type="text" value="MycsSecret" id="input"/>
+
+  Actions:
+  <button id="hash">hash</button>
+  <button id="encrypt">encrypt</button>
+  <button id="decrypt">decrypt</button>
+
+  Can I use it?
+  <a href="http://caniuse.com/#search=Web%20crypto">Window.crypto</a>
+
+  Source
+  <a href="https://www.youtube.com/watch?v=yf4m9LdO1zI">Tim Taubert: Keeping secrets with JavaScript | JSConf EU 2014</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto">MDN - SubtleCrypto Docs</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder">MDN - TextEncoder (String -> Encoded Int-Array) Docs</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder">MDN - TextDecoder (Encoded Int-Array -> String) Docs</a>
+
+  <script src="crypto.js"></script>
+</body>
+</html>
