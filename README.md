@@ -1,5 +1,6 @@
 # mycs - Tip of the week
 
+![alt tag](http://media0.giphy.com/media/eEtxYul1kBS80/giphy.gif)
 
 | Date     | Who       | Topic
 ---------- | --------- | ---------
