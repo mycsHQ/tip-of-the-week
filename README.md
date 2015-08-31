@@ -14,5 +14,5 @@
 12.06.2015 | Ivan   |  **IDE/JS/CSS:** Workspaces and live update for Scripts and CSS
 19.06.2015 | Claudio   | **Logs:** [Move through long logs](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150619_move_through_logs.md)
 26.06.2015 | Nancy   | **CSS3:** [Shapes: Wrapping content around custom paths] (https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150626_css_shapes.md)
-07.08.2015 | Philipp    | **Web Crypto API** [Creating Hashes, En/Decrypt in your Browser ]
+07.08.2015 | Philipp    | **Web Crypto API** [Creating Hashes, En/Decrypt in your Browser ](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150807_web_crypto_api)
 21.08.2015 | Avraam  | **Immutable data structures in JS** [Immutable data structures in JS] (https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150821_immutable.md)
