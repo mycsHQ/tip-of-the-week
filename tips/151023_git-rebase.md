@@ -22,7 +22,7 @@ Any feedback is highly appreciated.
   * git fetch origin
   * git rebase origin/master
   * git push origin my_feature_branch:master
-7. Close the PR and add the commit SHA in the comment
+7. Close the PR and add the commit SHA in the comment  
   `Landed as c56ead21f265eb61d78eb334252747979fd7a02b`
 8. Cleanup
  * git checkout master
@@ -39,7 +39,7 @@ Any feedback is highly appreciated.
     * [git squash](https://github.com/tj/git-extras/blob/master/Commands.md#git-squash)
     * [many more](https://github.com/tj/git-extras/blob/master/Commands.md)
 
-* Use [`gitx`](https://rowanj.github.io/gitx/) to have a GUI to see the commits, the branches, ... Enable `terminate usage` to be able to call `gitx` in your terminal in any git repo you have. (cf [screenshot](https://github.com/mycsHQ/tip-of-the-week/blob/master/images/gitx-terminal-usage.png?raw=true))
+* Use [`gitx`](https://rowanj.github.io/gitx/) (rowanj's fork) to have a GUI to see the commits, the branches, ... Enable `terminate usage` to be able to call `gitx` in your terminal in any git repo you have. (cf [screenshot](https://github.com/mycsHQ/tip-of-the-week/blob/master/images/gitx-terminal-usage.png?raw=true))
 
 
 ## resources
