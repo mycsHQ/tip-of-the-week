@@ -17,4 +17,4 @@
 07.08.2015 | Philipp    | **Web Crypto API** [Creating Hashes, En/Decrypt in your Browser ](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150807_web_crypto_api)
 21.08.2015 | Avraam  | **Immutable data structures in JS** [Immutable data structures in JS] (https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/150821_immutable.md)
 04.09.2015 | Ivan   |  **Testing:** [Protractor Recorder](https://github.com/katspaugh/protractor-recorder)
-
+23.10.2015 | Nicolas   |  **Git:** [Improved git workflow with rebase](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/151023_git-rebase.md)
