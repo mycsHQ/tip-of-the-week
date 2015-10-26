@@ -18,17 +18,10 @@ Any feedback is highly appreciated.
 4. Create your PR on github
 5. when your PR has been approved, you can squash all your commits  
   * git rebase -i HEAD~3 (3 being the number of commits you want to squash)
-6. now, you can rebase on master
-  * git fetch origin
-  * git rebase origin/master
-  * git push origin my_feature_branch:master
-7. Close the PR and add the commit SHA in the comment  
-  `Landed as c56ead21f265eb61d78eb334252747979fd7a02b`
-8. Cleanup
- * git checkout master
- * git pull origin master
- * git branch -D my_feature_branch
- * git push origin --delete my_feature_branch
+6. now, you can merge to master
+  * git checkout master
+  * git merge --ff-only my_feature_branch
+  * git push origin master
 
 
 ## tips
