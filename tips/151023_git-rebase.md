@@ -18,6 +18,8 @@ Any feedback is highly appreciated.
 4. Create your PR on github
 5. when your PR has been approved, you can squash all your commits  
   * git rebase -i HEAD~3 (3 being the number of commits you want to squash)
+  * Please use the Jira ticket number at the beginning of the commit comment:
+    * `MYCS-2098 Some awesome feature`
 6. now, you can merge to master
   * git checkout master
   * git merge --ff-only my_feature_branch
