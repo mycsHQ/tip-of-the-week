@@ -22,6 +22,7 @@ Any feedback is highly appreciated.
     * `MYCS-2098 Some awesome feature`
 6. now, you can merge to master
   * git checkout master
+  * git pull
   * git merge --ff-only my_feature_branch
   * git push origin master
 
