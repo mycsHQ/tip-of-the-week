@@ -4,12 +4,9 @@
 
 1. Install the [Browserstack extension](https://chrome.google.com/webstore/detail/browserstack-loader/ficmbjfmibnkmehkbngghpjnmmjolnmi?hl=en) for Chrome
 
-2. Downlaod the binary to establish a connection between your local machine and Browserstack
-  ```
-  https://www.browserstack.com/local-testing#command-line
-  ```
+2. Downlaod the [Browserstack binary](https://www.browserstack.com/local-testing#command-line) to establish a connection between your local machine and Browserstack
 
-3. Run the Browserstack script with your [access key](https://www.browserstack.com/accounts/local-testing)
+3. Run the binary with your [access key](https://www.browserstack.com/accounts/local-testing)
   ```
   ./BrowserStackLocal your-access-key
   ```
