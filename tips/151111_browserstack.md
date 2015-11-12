@@ -4,18 +4,19 @@
 
 1. Install the [Browserstack extension](https://chrome.google.com/webstore/detail/browserstack-loader/ficmbjfmibnkmehkbngghpjnmmjolnmi?hl=en) for Chrome
 
-2. Establish a connection between your local machine and Browserstack ([documentation](https://www.browserstack.com/local-testing))
+2. Downlaod the binary to establish a connection between your local machine and Browserstack
   ```
-  npm run browserstack
-  ```
-
-3. Use the Chrome extension to select different browsers. The first time you will have to login:
-  ```
-  user: ...
-  pass: ...
+  https://www.browserstack.com/local-testing#command-line
   ```
 
-4. Enter you local url, ie: `http://localhost:8000`
+3. Run the Browserstack script with your [access key](https://www.browserstack.com/accounts/local-testing)
+  ```
+  ./BrowserStackLocal your-access-key
+  ```
+
+4. Use the Chrome extension to select different browsers
+
+5. Enter you local url, ie: `http://localhost:8000`
 
 
 ## Test on different Mac devices (iPhone, iPad, etc.)
