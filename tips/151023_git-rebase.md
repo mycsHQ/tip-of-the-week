@@ -20,6 +20,7 @@ Any feedback is highly appreciated.
   * git rebase -i HEAD~3 (3 being the number of commits you want to squash)
   * Please use the Jira ticket number at the beginning of the commit comment:
     * `MYCS-2098 Some awesome feature`
+  * git push origin my_feature_branch
 6. now, you can merge to master
   * git checkout master
   * git pull
