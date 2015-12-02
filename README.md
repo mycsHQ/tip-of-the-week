@@ -20,3 +20,4 @@
 23.10.2015 | Nicolas   |  **Git:** [Improved git workflow with rebase](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/151023_git-rebase.md)
 30.10.2015 | Philipp | **File & FileReader API** [Handle client files in the browser](https://github.com/mycsHQ/tip-of-the-week/tree/master/tips/151030_filereader_api)
 11.11.2015 | Claudio | **Testing:** [Manual testing on different devices, browsers and OS'](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/151111_browserstack.md)
+02.12.2015 | Nicolas | **Refactoring:** [Getting rid of the scope soup](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/151202_angular-avoid-scope-soupe.md)
