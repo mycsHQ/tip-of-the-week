@@ -1,4 +1,4 @@
-# Refactoing Guidelines
+# Refactoring Guidelines
 
 ### Identifying Smart & Dumb components:
 
