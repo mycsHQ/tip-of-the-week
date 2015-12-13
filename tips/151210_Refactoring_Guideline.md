@@ -92,3 +92,161 @@ The BEM-ed sass looks as follows:
     +modifier(noMargin)
       margin: 0
 ```
+
+
+### Isolated scope
+
+__3 ways to bind parameters__
+
+"@" Local Scope Property
+Used to pass a string value into the directive
+```
+angular.module('directivesModule').directive('myIsolatedScopeWithName', function () {
+    return {
+        scope: {
+            name: '@'
+        },
+        template: 'Name: {{ name }}'
+    };
+});
+```
+The directive can be used in the following way:
+```
+<div my-isolated-scope-with-name name="{{ customer.name }}"></div>
+```
+---
+"=" Local Scope Property
+Used to create a two-way binding to an object that is passed into the directive
+```
+angular.module('directivesModule').directive('myIsolatedScopeWithModel', function () {
+    return {
+        scope: {
+            customer: '=' //Two-way data binding
+        },
+        template: '<ul><li ng-repeat="prop in customer">{{ prop }}</li></ul>'
+    };
+});
+```
+To pass data into the directive the following code can be used:
+```
+<div my-isolated-scope-with-model customer="customer"></div>
+```
+Note: with the "=" local scope property we don’t pass expression {{ customer }} as with @.
+
+---
+"&" Local Scope Property
+Allows an external function to be passed into the directive and invoked
+```
+angular.module('directivesModule').directive('myIsolatedScopeWithModelAndFunction', function () {
+    return {
+        scope: {
+            datasource: '=',
+            action: '&'
+        },
+        template: '<ul><li ng-repeat="prop in datasource">{{ prop }}</li></ul> ' + '<button ng-click="action({paramName: value})">Change Data</button>'
+    };
+});
+```
+Here’s an example of using the directive.
+```
+<div my-isolated-scope-with-model-and-function 
+     datasource="customer" 
+     action="changeData(paramName)">
+</div>
+```
+---
+
+__No $scope soup, bindToController__
+
+Use bindToController alongside controllerAs syntax, which treats Controllers as Class-like Objects, instantiating them as constructors and allowing us to namespace them once instantiated. Example:
+```
+app.directive('someDirective', function () {
+  return {
+    scope: {},
+    bindToController: {
+      someObject: '=',
+      someString: '@',
+      someExpr: '&'
+    }
+    controller: function () {
+      this.name = 'Pascal';
+    },
+    controllerAs: 'ctrl',
+    template: '<div>{{ctrl.name}}</div>'
+  };
+});
+```
+
+### Migrating to Angular 1.5+
+Link: http://toddmotto.com/exploring-the-angular-1-5-component-method/
+
+__directive() to .component()__
+
+```
+// before
+.directive('counter', function counter() {
+  return {
+    
+  };
+});
+
+// after
+.component('counter', {
+    
+});
+```
+
+__“scope” and “bindToController”, to “bindings”__
+
+```
+// before
+.directive('counter', function counter() {
+  return {
+    scope: {},
+    bindToController: {
+      count: '='
+    }
+  };
+});
+
+// after
+.component('counter', {
+  bindings: {
+    count: '='
+  }
+});
+```
+
+__Controller and controllerAs changes__
+
+Angular automatically uses the name of the Component you’ve created to instantiate the Controller with that alias.
+```
+.component('counter', {
+  bindings: {
+    count: '='
+  },
+  controller: function () {
+    function increment() {
+      this.count++;
+    }
+    function decrement() {
+      this.count--;
+    }
+    this.increment = increment;
+    this.decrement = decrement;
+  },
+  template: [
+    '<div class="todo">',
+      '<input type="text" ng-model="counter.count">',
+      '<button type="button" ng-click="counter.decrement();">-</button>',
+      '<button type="button" ng-click="counter.increment();">+</button>',
+    '</div>'
+  ].join('')
+});
+```
+Note: We also can use next syntax to define an alias for controller.
+```
+...
+controller: 'SomeCtrl as smth'
+...
+```
