@@ -250,3 +250,9 @@ Note: We also can use next syntax to define an alias for controller.
 controller: 'SomeCtrl as smth'
 ...
 ```
+
+__Controller and Coffescript__
+
+In the end of Controller function must be empty "return". Otherwise whatever we return in the end (controller's method for instance) will be treated as a new controller instance.
+
+
