@@ -80,6 +80,10 @@ git stash save "my_stashed_stuff_name"
 git stash list
 git stash apply stash@{n}
 git stash pop stash@{n}     # Apply and remove from list
+
+# or
+git stash       # save changes
+git stash pop   # restore changes
 ```
 
 * Undo last `add` (before commit)
