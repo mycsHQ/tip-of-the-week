@@ -1,0 +1,9 @@
+# Angular 1.5 features we missed
+
+### One-way binding '<'
+
+Inputs should be using < and @ bindings. The < symbol denotes one-way bindings which are available since 1.5. 
+The difference to = is that the bound properties in the component scope are not watched, which means if you assign a new value to the property in the component scope, it will not update the parent scope. 
+Note however, that both parent and component scope reference the same object, so if you are changing object properties or array elements in the component, the parent will still reflect that change. 
+The general rule should therefore be to never change an object or array property in the component scope. @ bindings can be used when the input is a string, especially when the value of the binding doesn't change.
+
