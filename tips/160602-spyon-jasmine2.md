@@ -27,7 +27,7 @@ const S3 = new AWS.S3();
 describe('s3-service unit tests', () => {
   it('uploadZip calls s3.upload with correct params', (done) => {
   
-  const filename = 'filename.txt';
+    const filename = 'filename.txt';
     const content = 'dsadakdsakdasd';
     const bucket = config.s3.buckets.dev;
     const expectedParams = {
