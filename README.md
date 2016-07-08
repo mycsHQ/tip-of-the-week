@@ -23,3 +23,4 @@
 02.12.2015 | Nicolas | **Refactoring:** [Getting rid of the scope soup](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/151202_angular-avoid-scope-soupe.md)
 10.12.2015 | Netta & Valentyn | **Refactoring:** [Smart & Dumb, BEMifying - Guidelines](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/151210_Refactoring_Guideline.md)
 26.05.2016 | Valentyn & Alex | **Testing:** [Ghost Inspector](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/160526_ghost-inspektor.md) **Frontend:** [Angular 1.5 features](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/160526_Angular_1.5.md)
+30.10.2015 | Philipp | **Fetch API & Promises in Vanilla JS** [Make AJAX requests the easy way](https://github.com/mycsHQ/tip-of-the-week/tree/master/tips/160708_fetch-api)
