@@ -24,4 +24,4 @@
 10.12.2015 | Netta & Valentyn | **Refactoring:** [Smart & Dumb, BEMifying - Guidelines](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/151210_Refactoring_Guideline.md)
 26.05.2016 | Valentyn & Alex | **Testing:** [Ghost Inspector](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/160526_ghost-inspektor.md) **Frontend:** [Angular 1.5 features](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/160526_Angular_1.5.md)
 08.07.2016 | Philipp | **Fetch API & Promises in Vanilla JS** [Make AJAX requests the easy way](https://github.com/mycsHQ/tip-of-the-week/tree/master/tips/160708_fetch-api)
-18.08.2016 | Alex | **Nightwatch.js** [Browser automated testing (e2e)](https://github.com/mycsHQ/tip-of-the-week/tree/master/tips/160818-nightwatch.js.md)
+18.08.2016 | Alex | **Testing** [Nightwatch.js Browser automated testing (e2e)](https://github.com/mycsHQ/tip-of-the-week/tree/master/tips/160818-nightwatch.js.md)
