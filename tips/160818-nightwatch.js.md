@@ -27,11 +27,11 @@
 
 ## Results
 <table>
-<th>
-  <td>Environment</td>
-  <td>Started tests</td>
-  <td>Fails</td>
-</th>
+<tr>
+  <th>Environment</th>
+  <th>Started tests</th>
+  <th>Fails</th>
+</tr>
 <tr>
   <td>local</td>
   <td>10</td>
