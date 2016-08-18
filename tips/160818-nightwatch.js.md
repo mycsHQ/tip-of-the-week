@@ -25,30 +25,6 @@
 - Tests could fail
 - It takes time to write tests
 
-## Results
-<table>
-<tr>
-  <th>Environment</th>
-  <th>Started tests</th>
-  <th>Fails</th>
-</tr>
-<tr>
-  <td>local</td>
-  <td>10</td>
-  <td>2</td>
-<tr>
-<tr>
-  <td>dev</td>
-  <td>10</td>
-  <td>1</td>
-<tr>
-<tr>
-  <td>prod</td>
-  <td>10</td>
-  <td>1</td>
-<tr>
-</table>
-
 ## Simple test
 ```js
 module.exports = {
@@ -116,3 +92,27 @@ module.exports = {
     }
 };
 ```
+
+## Results
+<table>
+<tr>
+  <th>Environment</th>
+  <th>Started tests</th>
+  <th>Fails</th>
+</tr>
+<tr>
+  <td>local</td>
+  <td>10</td>
+  <td>2</td>
+<tr>
+<tr>
+  <td>dev</td>
+  <td>10</td>
+  <td>1</td>
+<tr>
+<tr>
+  <td>prod</td>
+  <td>10</td>
+  <td>1</td>
+<tr>
+</table>
