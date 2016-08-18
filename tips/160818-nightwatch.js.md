@@ -33,7 +33,7 @@ Presentation: [link to pdf](../images/nightwatch-slides/Nightwatch.js.pdf)
 | dev    | 10 | 1 |
 | prod   | 10 | 1 |
 
-## Simple test demo
+## Simple test
 ```js
 module.exports = {
   'Demo test Google' : function (browser) {
@@ -73,4 +73,30 @@ module.exports = {
             "launch_url": "https://de.mycs.com/"
         }
     }
+```
+
+## Simple mycs test
+
+```js
+module.exports = {
+    'Homepage test' : function (browser) {
+        var color = '';
+        browser
+            .url(browser.launch_url)
+            .waitForElementVisible('body', 2000)
+            .assert.elementPresent(".banner__product-links") // check banner
+            .assert.elementPresent(".header__nav-left-container") // check logo
+            .assert.elementPresent(".header__nav-menu") // check menu
+            .click('#menu-0 > a') // go to configurator
+            .waitForElementVisible('.configurator--rendering', 3000) // wait for configurator
+            .assert.urlEquals(browser.launch_url + 'regal/LwAf6LoS') // check url
+            .click('my-configurator-header-shelf > section > div > div > div:nth-child(4) > mx-icon-button > button') // change color
+            .click('mx-color-picker-dropdown > mx-dropdown-button > div > mx-icon-button > button')
+            .click('.dropdown-button__popover.fade.in > div.popover-inner > div > div > ng-repeat:nth-child(5) > div.dropdown-button__option > mx-icon-button > button')
+            .click('mx-shelf-colors > div > div:nth-child(1) > span:nth-child(2) > mx-dropdown-button > div > mx-icon-button > button')
+            .click('.dropdown-button__popover.fade.in > div.popover-inner > div > div > ng-repeat:nth-child(3) > div > mx-icon-button > button')
+            .pause(1000)
+            .end();
+    }
+};
 ```
