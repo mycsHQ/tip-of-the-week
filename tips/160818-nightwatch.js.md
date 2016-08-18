@@ -1,7 +1,7 @@
 # Nightwatch.js
 ## Browser automated testing
 
-```Presentation: [link to pdf](../images/nightwatch-slides/Nightwatch.js.pdf)```
+```Presentation:``` :book: [link to pdf](../images/nightwatch-slides/Nightwatch.js.pdf)
 
 - describes itself an a Node.js powered end-to-end testing framework
 - uses Selenium WebDriver API [there is 3.0 beta](http://selenium-release.storage.googleapis.com/index.html)
@@ -26,12 +26,28 @@
 - It takes time to write tests
 
 ## Results
-<table><tr>TestTestTestTestTestTest</tr></table>
-| Environment  | Started tests | Fails |
-| ------------- | ------------- |
-| local  | 10 | 2 |
-| dev    | 10 | 1 |
-| prod   | 10 | 1 |
+<table>
+<th>
+  <td>Environment</td>
+  <td>Started tests</td>
+  <td>Fails</td>
+</th>
+<tr>
+  <td>local</td>
+  <td>10</td>
+  <td>2</td>
+<tr>
+<tr>
+  <td>dev</td>
+  <td>10</td>
+  <td>1</td>
+<tr>
+<tr>
+  <td>prod</td>
+  <td>10</td>
+  <td>1</td>
+<tr>
+</table>
 
 ## Simple test
 ```js
