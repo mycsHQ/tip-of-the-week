@@ -27,4 +27,5 @@
 18.08.2016 | Alex | **Testing** [Nightwatch.js Browser automated testing (e2e)](https://github.com/mycsHQ/tip-of-the-week/tree/master/tips/160818-nightwatch.js.md)
 15.09.2016 | Ivan | **Chess**: [three golden rules](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/160915_chess.md)
 21.09.2016 | Philipp | **JS** [Service Worker API](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/160921_serviceWorkerApi.md)
-22.09.2015 | Claudio   | **JS** [NPM tricks](https://github.com/mycsHQ/tip-of-the-week/blob/f49d35f627c4cce7d7608864f79baec03e075dc7/tips/160930_npm_tricks.md)
+22.09.2015 | Claudio   | **Chrome DevTools:** [Chrome DevTools](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/160922_chrome_dev_tools.md)
+30.09.2015 | Valentyn   | **JS** [NPM tricks](https://github.com/mycsHQ/tip-of-the-week/blob/f49d35f627c4cce7d7608864f79baec03e075dc7/tips/160930_npm_tricks.md)
