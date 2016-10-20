@@ -15,6 +15,8 @@ Browser support is great these days as of [caniuse.com](http://caniuse.com/#sear
 
 To read more about it and have a good overview when you want to use it refer to [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
+If you want to use it in our frontend, please refer to our mixins.
+
 ## Some examples
 
 <p data-height="265" data-theme-id="0" data-slug-hash="adLPwv" data-default-tab="html,result" data-user="enxaneta" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/enxaneta/pen/adLPwv/">Flexbox playground</a> by Gabi (<a href="http://codepen.io/enxaneta">@enxaneta</a>) on <a href="http://codepen.io">CodePen</a>.</p>
