@@ -15,7 +15,7 @@ Browser support is great these days as of [caniuse.com](http://caniuse.com/#sear
 
 To read more about it and have a good overview when you want to use it refer to [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
-If you want to use it in our frontend, please refer to our mixins.
+If you want to use it in our frontend, please use our mixins.
 
 ## Some examples
 
