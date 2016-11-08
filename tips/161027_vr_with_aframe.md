@@ -1,7 +1,7 @@
 # VR on Webpages
 [aframe-mycs-test](https://github.com/cremate991/aframe-mycs-test) Repo
 
-[live demo](https://cremate991.github.io/aframe-mycs-test/) for that you can use e.g. the google cardboard
+[live demo](https://cremate991.github.io/aframe-mycs-playground/) for that you can use e.g. the google cardboard
 
 ## [A-Frame](https://aframe.io/)
 A web framework for building virtual reality experiences
