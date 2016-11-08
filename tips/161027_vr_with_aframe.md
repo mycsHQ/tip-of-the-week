@@ -1,5 +1,5 @@
 # VR on Webpages
-[aframe-mycs-test](https://github.com/cremate991/aframe-mycs-test) Repo
+[aframe-mycs-playground](https://github.com/cremate991/aframe-mycs-playground) Repo
 
 [live demo](https://cremate991.github.io/aframe-mycs-playground/) for that you can use e.g. the google cardboard
 
