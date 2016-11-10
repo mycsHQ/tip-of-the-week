@@ -31,3 +31,4 @@
 30.09.2016 | Valentyn   | **JS** [NPM tricks](https://github.com/mycsHQ/tip-of-the-week/blob/f49d35f627c4cce7d7608864f79baec03e075dc7/tips/160930_npm_tricks.md)
 20.10.2016 | Jonathan   | **CSS3** [using Flexbox](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161020_using_flexbox.md)
 27.10.2016 | Andreas    | **HTML** [VR A-Frame](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161027_vr_with_aframe.md)
+10.11.2016 | Denis      | **JS** [The 10 Key Features in Node.js v6 LTS](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161110_10_key_features_in_Node_v6_LTS.md)
