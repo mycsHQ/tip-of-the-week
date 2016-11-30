@@ -33,3 +33,4 @@
 27.10.2016 | Andreas    | **HTML** [VR A-Frame](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161027_vr_with_aframe.md)
 10.11.2016 | Denis      | **JS** [The 10 Key Features in Node.js v6 LTS](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161110_10_key_features_in_Node_v6_LTS.md)
 18.11.2016 | Frédéric   | **SQL** [Write better SQL queries](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161118_write_better_sql_queries.md)
+18.11.2016 | Lyaysan   | **JIRA** [How to add Filter Result gadget](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/Jira_filter_result_gadget.md)
