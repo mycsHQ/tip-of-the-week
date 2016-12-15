@@ -34,4 +34,4 @@
 10.11.2016 | Denis      | **JS** [The 10 Key Features in Node.js v6 LTS](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161110_10_key_features_in_Node_v6_LTS.md)
 18.11.2016 | Frédéric   | **SQL** [Write better SQL queries](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161118_write_better_sql_queries.md)
 18.11.2016 | Lyaysan   | **JIRA** [How to add Filter Result gadget](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/Jira_filter_result_gadget.md)
-18.11.2016 | Nancy     | **FE** [Front-end Chrome Extensions](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161215_frontend_chrome_extensions.md)
+15.12.2016 | Nancy     | **FE** [Front-end Chrome Extensions](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161215_frontend_chrome_extensions.md)
