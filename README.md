@@ -37,3 +37,4 @@
 18.11.2016 | Lyaysan    | **JIRA** [How to add Filter Result gadget](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/Jira_filter_result_gadget.md)
 15.12.2016 | Nancy      | **FE** [Front-end Chrome Extensions](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161215_frontend_chrome_extensions.md)
 05.01.2017 | Philipp    | **Angular 2** [Testing Services with HTTP Requests in Angular 2](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170105-testing-services-with-Angular2.md)
+05.01.2017 | Lyaysan    | **Testing** [Elementor: testing Protractor selectors from your browser and IDE](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170105-Elementor-testing-Protractor-selectors.md)
