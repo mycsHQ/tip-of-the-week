@@ -38,3 +38,4 @@
 15.12.2016 | Nancy      | **FE** [Front-end Chrome Extensions](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/161215_frontend_chrome_extensions.md)
 05.01.2017 | Philipp    | **Angular 2** [Testing Services with HTTP Requests in Angular 2](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170105-testing-services-with-Angular2.md)
 05.01.2017 | Lyaysan    | **Testing** [Elementor: testing Protractor selectors from your browser and IDE](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170105-Elementor-testing-Protractor-selectors.md)
+03.02.2017 | Jonathan   | **JS** [PDF creation with JS Frameworks (client and server side)](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20170203_pdf-creation-with-js)
