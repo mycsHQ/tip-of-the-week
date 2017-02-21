@@ -1,5 +1,20 @@
 # React Patterns and Anti-Patterns
 
+* Create components patterns
+  * [Create Class](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#create-class-deprecated)
+  * [Extend Component](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#extend-component)
+  * [Functional Component](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#functional-component-no-life-cycle-hooks)
+  * There are even more...
+* [High Order Components (HoC)](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#high-order-components)
+  * [Typical case(can be or not a HoC)](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#typical-parent-child-relation)
+  * [Enchace child with extra functionallity using React.cloneElement](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#enchace-child-with-extra-functionallity-using-reactcloneelement)
+  * [Function as child](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#function-as-child)
+  * [Looping/Manipulating children](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#loopingmanipulating-children)
+  * [Function as enchacer](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#function-as-enchacers)
+  * [Decorator as enchacer](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#decorators-as-enchacers)
+  * There are even more...
+* [React Anti-Patterns](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/react-hoc-components.md#react-anti-patterns)
+
 ## Create components
 
 ### Create class (deprecated)
