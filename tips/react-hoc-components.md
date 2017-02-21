@@ -348,7 +348,7 @@ class MyHelloWorldComponent extends Component
 - Checking if a component is mounted using `isMounted` (will be soon deprecated)
 - Calling `setState` in `componentDidMount`, triggers unessecery re-rendering. You can do it in `componentWillMount`
 - Mutating DOM directly, outside of React's lifecycle using `jQuery` or even plain javascript query selectors.
-- Prefer composition instead of inheritance.
+- [Prefer composition instead of inheritance, to avoid deep hierarchy trees](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 - Attaching to the `this.state` props that are not related to the rendering. Attach them to `this` directly if needed.
 - Using `bind` or `() => ` functions inside the JSX. You can not always avoid it (e.g. when you use `map`) but usually you can. It should be avoided because it creates new function on every rendering having performance impact. Prefer the `@bindComponent` or `@autobind` decorators. Also do not do
 ```js
