@@ -43,4 +43,5 @@
   - | Avraam     | **JS** [React Patterns and Anti-Patterns](tips/react-hoc-components.md)
   - | Avraam     | **JS** [Async Javascript Using Reactive Extensions](http://slides.com/avraammavridis/deck-1-2-3#/)
 21.02.2017 | Avraam & Claire    | **JS** [Testing with Jest & Enzyme](http://slides.com/avraammavridis/deck-3#/)
+16.03.2017 | Lucian     | ***IDE*** [Boostraping vim](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/16032017_Boostraping_vim.md)
 
