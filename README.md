@@ -40,8 +40,8 @@
 05.01.2017 | Lyaysan    | **Testing** [Elementor: testing Protractor selectors from your browser and IDE](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170105-Elementor-testing-Protractor-selectors.md)
 03.02.2017 | Jonathan   | **JS** [PDF creation with JS Frameworks (client and server side)](tips/20170203_pdf-creation-with-js.md)
 10.02.2017 | Claire     | **JS** [Re-creating Redux with Rx.js](tips/170210_creating_a_redux_flow_using_rxjs.md)
-16.03.2017 | Lucian     | ***IDE*** [Boostraping vim](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/16032017_Boostraping_vim.md)
   - | Avraam     | **JS** [React Patterns and Anti-Patterns](tips/react-hoc-components.md)
   - | Avraam     | **JS** [Async Javascript Using Reactive Extensions](http://slides.com/avraammavridis/deck-1-2-3#/)
 21.02.2017 | Avraam & Claire    | **JS** [Testing with Jest & Enzyme](http://slides.com/avraammavridis/deck-3#/)
+16.03.2017 | Lucian     | ***IDE*** [Boostraping vim](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/16032017_Boostraping_vim.md)
 
