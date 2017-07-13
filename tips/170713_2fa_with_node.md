@@ -69,3 +69,4 @@ var verified = speakeasy.totp.verify({
 
 ## Links
 * [Demo](https://sedemo-mktb.rhcloud.com/)
+* Alternative: [npm package - autheticator](https://www.npmjs.com/package/authenticator)
