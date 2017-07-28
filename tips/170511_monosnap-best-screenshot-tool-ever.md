@@ -15,9 +15,9 @@
   - Check option *Short link* so they will less space in message 
 - **Hotkeys** make our life easier so set them as convenient for you. *Capture frozen area* hotkey can take a screenshot of hover effect
 - Get **Embed codes and social buttons** for screenshot in monosnap storage
-![embed](http://take.ms/DprDA)
+![embed](https://monosnap.com/file/uqB03BA63fcb8U4fB3Y2TVaqWH0Jcb.png)
 - **Magnifier** is a cool feature that shows you pixel coordinates and hex color. Activate it in **Preferences->Appearance**
-![magnifier](http://take.ms/Whrvq)
+![magnifier](https://monosnap.com/file/BKYGJ8l7UundpruoVIkcQKPSKD234r.png)
 
 _**Enjoy!**_
 
