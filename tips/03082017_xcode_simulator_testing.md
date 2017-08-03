@@ -1,4 +1,4 @@
-#Debugging and testing with Xcode Simulator 📱💻
+# Debugging and testing with Xcode Simulator 📱💻
 
 
 ### Tools to test on different devices
