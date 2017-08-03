@@ -22,7 +22,8 @@
 
 💻 ```xcrun simctl openurl booted 'http://localhost:8080/example.html'```
 
-5. You want to check console? 
+### To check console and developers tools
+
 Go to Safari desktop (Develop -> Simulator) 💻
 In case if you don't see your simulator in the list, restart Safari desktop browser
 
