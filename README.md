@@ -47,6 +47,6 @@
 11.05.2017 | Kateryna   | **Tool** [Monosnap - best screenshot tool ever](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170511_monosnap-best-screenshot-tool-ever.md)
 06.07.2017 | Johann     | **OS** [Unix backup solution](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/06072017_UnixBackup.md)
 13.07.2017 | Philipp    | **Node** [Two-Factor Authentication with Node](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170713_2fa_with_node.md)
-17.07.2017 | Avraam    | **JS** [Sorting faster than .sort()](https://avraammavridis.com/sorting-faster-than-the-native-js)
+17.07.2017 | Avraam    | **JS** [Sorting faster than .sort()](http://avraammavridis.com/blog/sorting-faster-than-the-native-js-sort)
 25.07.2017 | Kateryna & Lyaysan | **Testing** [Performance testing and monitoring](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170725_performance_testing.md)
 03.08.2017 | Lyaysan | **Testing** [Debugging and Testing with Xcode Simulator](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/03082017_xcode_simulator_testing.md)
