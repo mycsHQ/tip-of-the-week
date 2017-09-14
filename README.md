@@ -50,3 +50,7 @@
 17.07.2017 | Avraam    | **JS** [Sorting faster than .sort()](http://avraammavridis.com/blog/sorting-faster-than-the-native-js-sort)
 25.07.2017 | Kateryna & Lyaysan | **Testing** [Performance testing and monitoring](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/170725_performance_testing.md)
 03.08.2017 | Lyaysan | **Testing** [Debugging and Testing with Xcode Simulator](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/03082017_xcode_simulator_testing.md)
+14.09.2017 | Avraam | **Give a damn, develop with empathy** [Give a damn, develop with empathy](https://github.com/mycsHQ/tip-of-the-week/blob/a11y/tips/140907_a11y.md)
+
+
+https://github.com/mycsHQ/tip-of-the-week/blob/a11y/tips/140907_a11y.md
