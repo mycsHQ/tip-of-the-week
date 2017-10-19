@@ -5,7 +5,7 @@
   - Reason: The script could make change to the DOM
   - It will continue to look for external files (CSS, scripts, images, @import [not FF]) and load then, though
   - It may construct speculative DOM-tree
-- Browser may stops parsing HTML when it comes over a CSS definition (`<style>...</style>` or `<link rel="stylesheet">`)
+- Browser may stops parsing HTML when it comes over a CSS definition (`<style>` or `<link rel="stylesheet">`)
   - But it stops Rendering for sure (it creats the CSSDOM which will be used for rendering)
 
 ![](https://hacks.mozilla.org/files/2017/09/blocking-bold@2x-1-500x162.png)

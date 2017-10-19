@@ -53,3 +53,4 @@
 14.09.2017 | Avraam | **a11y** [Give a damn, develop with empathy](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/140907_a11y.md)
 21.09.2017 | Mathieu | **C++ / JS** [Emscripten : Compiling C++ to fast JS](https://docs.google.com/a/mycs.com/presentation/d/1sJnmyFE_8jSi5b8H7lSrQAb4plX6tbu9dUVk7I3p5sg/edit?usp=sharing)
 29.09.2017 | Nicolas | **JS** [Webtask.io](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20170929_webtask.md)
+19.10.2017 | Philipp | **HTML/JS** [Preload resources](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/171019_preload.md)
