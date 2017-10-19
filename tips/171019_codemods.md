@@ -43,4 +43,6 @@ export default function transformer(file, api) {
 }
 ```
 
+## Other links
 A collection of community code transformations https://github.com/cpojer/js-codemod/tree/master/transforms
+Tool to parse code, visualize AST and test transforms: https://astexplorer.net
