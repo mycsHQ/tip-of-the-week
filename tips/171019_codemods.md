@@ -24,4 +24,24 @@ module.exports = function(fileInfo, api) {
 
 ```
 
+Find all calls to `I18nUtils.localize` inside JSX
+```JS
+// Press ctrl+space for code completion
+export default function transformer(file, api) {
+  const j = api.jscodeshift;
+
+  const hasLocalize = path => j(path).find(j.MemberExpression, n => n.object.name === 'I18nUtils' && n.property.name === 'localize').length > 0
+
+  return j(file.source)
+    .find(j.JSXElement)
+  	.filter(path => path.node.children)
+  	.filter(path => path.node.children.length === 1)
+    .filter(path => j(path.node.children[0]).filter(hasLocalize).length > 0)
+  	.forEach(x => {
+    	console.log(x)
+    })
+    //.toSource();
+}
+```
+
 A collection of community code transformations https://github.com/cpojer/js-codemod/tree/master/transforms
