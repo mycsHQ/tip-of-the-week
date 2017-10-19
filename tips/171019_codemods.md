@@ -1,7 +1,7 @@
 # Codemods
 How to make changes across the whole code base (e. g. changing name of function)?
 With regex its difficult to know if we're inside of a string or comment, get all the possible formattings right etc.
-Use a parser instead of regex. Parser converts source code into a abstract syntax tree (AST).
+  Use a parser instead of regex. Parser converts source code into an abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree).
 https://astexplorer.net/#/gist/a49ad736a64500308745fadc61bcc0d1/37a5cea1bbaf83fab7fc560cb3c23487e734c670
 
 
@@ -24,4 +24,4 @@ module.exports = function(fileInfo, api) {
 
 ```
 
-A collection of community code transforms https://github.com/cpojer/js-codemod/tree/master/transforms
+A collection of community code transformations https://github.com/cpojer/js-codemod/tree/master/transforms
