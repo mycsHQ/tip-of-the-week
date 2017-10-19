@@ -26,7 +26,6 @@ module.exports = function(fileInfo, api) {
 
 Find all calls to `I18nUtils.localize` inside JSX
 ```JS
-// Press ctrl+space for code completion
 export default function transformer(file, api) {
   const j = api.jscodeshift;
 
