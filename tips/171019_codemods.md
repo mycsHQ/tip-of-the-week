@@ -15,10 +15,10 @@ module.exports = function(fileInfo, api) {
   const j = api.jscodeshift
   const source = j(fileInfo.source)
   
-  const hasGlobalImport = identifier => source.find(j.ImportDefaultSpecifier).find(j.Identifier, {name: '_'}).length > 0
-  const hasGlobalVariable = identifier => source.find(j.MemberExpression, {object: {name: '_'}}).length > 0 || source.find(j.CallExpression).find(j.Identifier, {name: '_'}).length > 0
+  const hasGlobalImport = () => source.find(j.ImportDefaultSpecifier).find(j.Identifier, {name: '_'}).length > 0
+  const hasGlobalVariable = () => source.find(j.MemberExpression, {object: {name: '_'}}).length > 0 || source.find(j.CallExpression).find(j.Identifier, {name: '_'}).length > 0
 
-  if (!hasGlobalImport('lodash') && hasGlobalVariable('_'))
+  if (!hasGlobalImport() && hasGlobalVariable())
     return `import _ from 'lodash';\n` + source.toSource()
 }
 
