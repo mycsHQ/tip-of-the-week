@@ -56,3 +56,4 @@
 19.10.2017 | Philipp | **HTML/JS** [Preload resources](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/171019_preload.md)
 23.11.2017 | Denis | **DevOps:** [AWS Batch](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/171123-AWS-batch.md)
 04.01.2018 | Philipp | **PostgreSQL:** [Heap, Vacuum, B-tree Index](https://docs.google.com/presentation/d/1AEv0K0cFd_DOBMxvTThg8hG0iu6__1ypy2AvKkzNuU4/edit?usp=sharing)
+01.02.2018 | Johann | **Manual-Viewer** [Bachelor thesis overview](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180201_thesis-overview.md)
