@@ -58,4 +58,4 @@
 04.01.2018 | Philipp | **PostgreSQL:** [Heap, Vacuum, B-tree Index](https://docs.google.com/presentation/d/1AEv0K0cFd_DOBMxvTThg8hG0iu6__1ypy2AvKkzNuU4/edit?usp=sharing)
 01.02.2018 | Johann | **Manual-Viewer** [Bachelor thesis overview](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180201_thesis-overview.md)
 08.02.2018 | Rémy | **Data viz** [D3.js library](https://docs.google.com/presentation/d/19Z-WBRO6Bc5t2sE6TFjlKay1J5YojMzWRUw5BVkYj1U/edit?usp=sharing)
-01.03.2018 | Denis | **Logs and big files** [Tool](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/tips/20180329_logs.md)
+01.03.2018 | Denis | **Logs and big files** [Tool](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180329_logs.md)
