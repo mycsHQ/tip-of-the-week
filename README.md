@@ -55,6 +55,7 @@
 29.09.2017 | Nicolas | **JS** [Webtask.io](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20170929_webtask.md)
 19.10.2017 | Philipp | **HTML/JS** [Preload resources](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/171019_preload.md)
 23.11.2017 | Denis | **DevOps:** [AWS Batch](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/171123-AWS-batch.md)
+14.12.2017 | Maxime | **GPU architecture** [Slides](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20171214_Gpu_Architecture.md)
 04.01.2018 | Philipp | **PostgreSQL:** [Heap, Vacuum, B-tree Index](https://docs.google.com/presentation/d/1AEv0K0cFd_DOBMxvTThg8hG0iu6__1ypy2AvKkzNuU4/edit?usp=sharing)
 01.02.2018 | Johann | **Manual-Viewer** [Bachelor thesis overview](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180201_thesis-overview.md)
 08.02.2018 | Rémy | **Data viz** [D3.js library](https://docs.google.com/presentation/d/19Z-WBRO6Bc5t2sE6TFjlKay1J5YojMzWRUw5BVkYj1U/edit?usp=sharing)
