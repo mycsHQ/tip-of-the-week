@@ -62,3 +62,4 @@
 01.03.2018 | Denis | **Logs and big files** [Tool](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180329_logs.md)
 29.03.2018 | Maxime | **Introduction to MDL language** [Slides](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180329_MdlArchitecture.md)
 14.06.2018 | Lyaysan | **Mutation testing** [Tool](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180614_mutation_testing.md)
+29.06.2018 | Maxime | **Image post-processing: Tone mapping and Histogram stretching** [Slides](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180629_Image_Postprocessing.md)
