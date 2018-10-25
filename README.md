@@ -65,4 +65,6 @@
 14.06.2018 | Lyaysan | **Mutation testing** [Tool](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180614_mutation_testing.md)
 29.06.2018 | Maxime | **Image post-processing: Tone mapping and Histogram stretching** [Slides](https://github.com/mycsHQ/tip-of-the-week/blob/master/tips/20180629_Image_Postprocessing.md)
 29.06.2018 | Mathieu | **Mixed Integer Programming** [Slides](https://docs.google.com/presentation/d/1niCz4viizrvqeeJZermUpuF2dMlOjxz_IRjYQeSDH0E/edit?usp=sharing)
+23.08.2018 | Ivan | **Music** [Euclidean Rhythms](tips/230818_Euclidean-Rhythm.md)
 11.10.2018 | Radek | **Browser Rendering** [Slides](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
+25.10.2018 | Denis | **SQL injection** [Slides](https://docs.google.com/presentation/d/10HAiafqkf7PSPGXGx_TJieGmd1_vB0Ah5mHJ_Ggu7ug/edit?usp=sharing)
