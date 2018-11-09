@@ -68,3 +68,4 @@
 23.08.2018 | Ivan | **Music** [Euclidean Rhythms](tips/230818_Euclidean-Rhythm.md)
 11.10.2018 | Radek | **Browser Rendering** [Slides](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
 25.10.2018 | Denis | **SQL injection** [Slides](https://docs.google.com/presentation/d/10HAiafqkf7PSPGXGx_TJieGmd1_vB0Ah5mHJ_Ggu7ug/edit?usp=sharing)
+09.11.2018 | Xmun | **Intro to Web Audio Api** https://github.com/simon-mycs/WebAudioIntro
