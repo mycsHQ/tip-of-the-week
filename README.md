@@ -70,3 +70,4 @@
 25.10.2018 | Denis | **SQL injection** [Slides](https://docs.google.com/presentation/d/10HAiafqkf7PSPGXGx_TJieGmd1_vB0Ah5mHJ_Ggu7ug/edit?usp=sharing)
 09.11.2018 | Xmun | **Intro to Web Audio Api** https://github.com/simon-mycs/WebAudioIntro
 9.11.2018 | Bruno | **Basic RESTlet implementation** [Slides](https://drive.google.com/open?id=1du6dVSJKqeWV3yhYFtrGqb7tKkiaE4GQs6VqKKJLYyA)
+9.11.2018 | Romain | **NodeJS Streams** [Slides](https://drive.google.com/open?id=1BD_-aglUlHi0PFpgxC8ofAvJDzckPryHZAdLxLygEaU)
