@@ -72,3 +72,4 @@
 9.11.2018 | Bruno | **Basic RESTlet implementation** [Slides](https://drive.google.com/open?id=1du6dVSJKqeWV3yhYFtrGqb7tKkiaE4GQs6VqKKJLYyA)
 9.11.2018 | Romain | **NodeJS Streams** [Slides](https://drive.google.com/open?id=1BD_-aglUlHi0PFpgxC8ofAvJDzckPryHZAdLxLygEaU)
 15.11.2018 | Katia | **WebdriverIO service that enables Chrome DevTools functionality** [wdio-devtools-service](https://github.com/webdriverio-boneyard/wdio-devtools-service)
+15.11.2018 | Valentin R | **How (actually) e2e tests work** [Slides](https://docs.google.com/presentation/d/1ILv4Rt-uJa0N4IyQ48J6jjxqdfNekJ1gMEiRvGS0Isw/edit?usp=sharing)
