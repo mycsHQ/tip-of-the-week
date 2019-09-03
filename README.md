@@ -74,6 +74,5 @@
 9.11.2018 | Romain | **NodeJS Streams** [Slides](https://drive.google.com/open?id=1BD_-aglUlHi0PFpgxC8ofAvJDzckPryHZAdLxLygEaU)
 15.11.2018 | Katia | **WebdriverIO service that enables Chrome DevTools functionality** [wdio-devtools-service](https://github.com/webdriverio-boneyard/wdio-devtools-service)
 15.11.2018 | Valentin R | **How e2e tests actually work** [Slides](https://docs.google.com/presentation/d/1ILv4Rt-uJa0N4IyQ48J6jjxqdfNekJ1gMEiRvGS0Isw/edit?usp=sharing)
-26.11.2018 | Philipp | **Short review of GoLab 2018** [Slides](https://docs.google.com/presentation/d/1y2wO5UT7VURat3adC4gwTXs7szk8su5uI08c---xSCU/edit?
-usp=sharing)
+26.11.2018 | Philipp | **Short review of GoLab 2018** [Slides](https://docs.google.com/presentation/d/1y2wO5UT7VURat3adC4gwTXs7szk8su5uI08c---xSCU/edit?usp=sharing)
 03.09.2019 | Maxime | **How to transform MDL to CUDA code ?** [Slides](https://docs.google.com/presentation/d/1pYPJWpcVI21-RUL0dA0qyXkgu_LgbIcB2JbR3iVTD5c/edit?usp=sharing)
